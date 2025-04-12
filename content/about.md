@@ -6,4 +6,6 @@ aliases = ["about-us","about-hugo","contact"]
   name = "Austin Tuley"
 +++
 
-Austin Tuley is a cybersecurity professional accredited by ISC2. Currently serving as a Systems Administrator in aerospace and defense manufacturing, he brings a diverse skill set encompassing system administration, penetration testing, security analysis, and DevOps. Recently Certified in Cybersecurity by ISC2, Austin is actively pursuing the Practical Junior Penetration Tester certification from TCM-SEC. With a passion for cybersecurity and a focus on continual learning, his professional journey is dedicated to navigating the complexities of the ever-evolving cybersecurity landscape.
+Certified in Cybersecurity (CC) by ISC2 since 2023, Austin Tuley passed the Systems Security Certified Practitioner (SSCP) exam in April 2025. He’s a cybersecurity professional currently working as a Systems Administrator in aerospace and defense manufacturing, where he combines his skills in system administration, penetration testing, security analysis, and vulnerability management.
+
+Austin is currently pursuing the Practical Network Penetration Tester (PNPT) certification from TCM Security to deepen his offensive security expertise. Driven by curiosity and a passion for cybersecurity, he's committed to continual learning and staying ahead in an ever-evolving landscape.
