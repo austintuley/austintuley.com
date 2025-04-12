@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Austin Tuley</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Austin Tuley</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 09 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Austin Tuley is a cybersecurity professional accredited by ISC2. Currently serving as a Systems Administrator in aerospace and defense manufacturing, he brings a diverse skill set encompassing system administration, penetration testing, security analysis, and DevOps. Recently Certified in Cybersecurity by ISC2, Austin is actively pursuing the Practical Junior Penetration Tester certification from TCM-SEC. With a passion for cybersecurity and a focus on continual learning, his professional journey is dedicated to navigating the complexities of the ever-evolving cybersecurity landscape.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
