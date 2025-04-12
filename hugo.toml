@@ -53,7 +53,7 @@ disableHugoGeneratorInject = false
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
-  homeSubtitle = "System Administration | Bug Bounty | Penetration Testing | Security Analysis"
+  homeSubtitle = "System Administration | Penetration Testing | Vulnerability Management"
 
 [params.author]
   name = "Austin Tuley"
