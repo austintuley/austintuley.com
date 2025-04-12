@@ -40,10 +40,6 @@ disableHugoGeneratorInject = false
 [permalinks]
   posts = "/posts/:year/:month/:title/"
 
-# remove if [params] author attempt works
-#[author]
-#  name = "Austin Tuley"
-
 [blackfriday]
   hrefTargetBlank = true
 
@@ -67,10 +63,6 @@ disableHugoGeneratorInject = false
   description = "Nice theme for homepages and blogs"
   keywords = ""
   images = [""]
-
-  # Home subtitle of the index page.
-  #
-  #homeSubtitle = "System Administration | Bug Bounty | Penetration Testing | Security Analysis"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -123,7 +115,7 @@ disableHugoGeneratorInject = false
   # If you want, you can easily override the default footer with your own content. 
   #
   [params.footer]
-    trademark = true
+    trademark = 2025
     rss = true
     copyright = true
     author = true
@@ -227,4 +219,3 @@ disableHugoGeneratorInject = false
     identifier = "wip"
     name       = "wip"
     url        = "https://github.com/austintuley/"
-    
