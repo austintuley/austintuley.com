@@ -6,6 +6,7 @@ toc: false
 images:
 tags:
   - blog
+  - teaser
 ---
 ![Magwitch](/img/misty_rainy_evening_remix.png)
 
