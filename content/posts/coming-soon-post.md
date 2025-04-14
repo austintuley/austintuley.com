@@ -7,7 +7,7 @@ images:
 tags:
   - blog
 ---
-![Magwitch](/img/full_hooded_marshes.png)
+![Magwitch](/img/misty_rainy_evening_remix.png)
 
 ### Technical write-ups, walkthroughs, scripts and more.
 
