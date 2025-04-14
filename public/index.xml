@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Austin Tuley</title>
-    <link>https://austintuley.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Austin Tuley</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Tue, 09 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://austintuley.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://austintuley.com/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://austintuley.com/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;Austin Tuley has been Certified in Cybersecurity (CC) by ISC2 since 2023 and passed the Systems Security Certified Practitioner (SSCP) exam in April 2025. He is an information technology professional currently working as a systems administrator in aerospace and defense manufacturing, where he brings together his skills in systems and network administration, vulnerability management, and security awareness.&lt;/p&gt;&#xA;&lt;p&gt;Austin is currently pursuing the Practical Network Penetration Tester (PNPT) certification from TCM Security to deepen his offensive security expertise. Driven by curiosity and a passion for cybersecurity, he is committed to continual learning and staying ahead in an ever-evolving landscape.&lt;/p&gt;</description>
     </item>
   </channel>

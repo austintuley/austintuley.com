@@ -6,38 +6,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Sun, 13 Apr 2025 18:58:32 -0600</lastBuildDate>
         <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-        
-        <item>
-            <title>Coming Soon</title>
-            <link>http://localhost:1313/posts/2025/04/coming-soon/</link>
-            <pubDate>Sun, 13 Apr 2025 18:58:32 -0600</pubDate>
-            
-            <guid>http://localhost:1313/posts/2025/04/coming-soon/</guid>
-            <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/full_hooded_marshes.png&#34; alt=&#34;Magwitch&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;technical-write-ups-walkthroughs-useful-scripts-and-more&#34;&gt;Technical write-ups, walkthroughs, useful scripts and more.&lt;/h3&gt;</description>
-            <content type="html"><![CDATA[<p><img src="/img/full_hooded_marshes.png" alt="Magwitch"></p>
-<h3 id="technical-write-ups-walkthroughs-useful-scripts-and-more">Technical write-ups, walkthroughs, useful scripts and more.</h3>
-]]></content>
-        </item>
-        
-        <item>
-            <title>This Is My Exit Node</title>
-            <link>http://localhost:1313/posts/2025/04/this-is-my-exit-node/</link>
-            <pubDate>Sun, 13 Apr 2025 16:34:17 -0600</pubDate>
-            
-            <guid>http://localhost:1313/posts/2025/04/this-is-my-exit-node/</guid>
-            <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/hoodie_marshes.png&#34; alt=&#34;Magwitch&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;whoami&#34;&gt;whoami&lt;/h3&gt;
-&lt;p&gt;This is my first post, a test post. Coming soon will be guides created from
-personal notes. Things homelab, linux, offensive and defensive security related.&lt;/p&gt;</description>
-            <content type="html"><![CDATA[<p><img src="/img/hoodie_marshes.png" alt="Magwitch"></p>
-<h3 id="whoami">whoami</h3>
-<p>This is my first post, a test post. Coming soon will be guides created from
-personal notes. Things homelab, linux, offensive and defensive security related.</p>
-]]></content>
-        </item>
         
     </channel>
 </rss>
