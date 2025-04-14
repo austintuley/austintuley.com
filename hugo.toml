@@ -43,10 +43,10 @@ disableHugoGeneratorInject = false
 [blackfriday]
   hrefTargetBlank = true
 
-# [taxonomies]
-  # tag      = "tags"
-  # category = "categories"
-  # series   = "series"
+ [taxonomies]
+   tag      = "tags"
+   category = "categories"
+   series   = "series"
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -159,10 +159,10 @@ disableHugoGeneratorInject = false
 
   # Uncomment this if you want a portrait on your start page
   #
-  # [params.portrait]
-  #   path     = "/img/image.jpg"
-  #   alt      = "Portrait"
-  #   maxWidth = "50px"
+    [params.portrait]
+      path     = "/img/magwitch.png"
+      alt      = "Portrait"
+      maxWidth = "450px"
 
   # Social icons
   # [[params.social]]
@@ -215,6 +215,10 @@ disableHugoGeneratorInject = false
     # identifier = "homelab"
     # name       = "homelab"
     # url        = "homelab/"
+   [[menu.main]]
+     identifier = "posts"
+     name       = "posts"
+     url        = "posts/"
   [[menu.main]]
     identifier = "wip"
     name       = "wip"

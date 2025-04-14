@@ -1,7 +1,7 @@
 +++
 title = "About"
 date = "2024-01-09"
-aliases = ["about-us","about-hugo","contact"]
+aliases = ["about-us","about-hugo","contact", "whoami"]
 [ author ]
   name = "Austin Tuley"
 +++
