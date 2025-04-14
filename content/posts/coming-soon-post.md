@@ -9,5 +9,5 @@ tags:
 ---
 ![Magwitch](/img/full_hooded_marshes.png)
 
-### Technical write-ups, walkthroughs, useful scripts and more.
+### Technical write-ups, walkthroughs, scripts and more.
 
