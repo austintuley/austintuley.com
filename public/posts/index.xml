@@ -9,5 +9,18 @@
         <lastBuildDate>Sun, 13 Apr 2025 18:58:32 -0600</lastBuildDate>
         <atom:link href="https://austintuley.com/posts/index.xml" rel="self" type="application/rss+xml" />
         
+        <item>
+            <title>Coming Soon</title>
+            <link>https://austintuley.com/posts/2025/04/coming-soon/</link>
+            <pubDate>Sun, 13 Apr 2025 18:58:32 -0600</pubDate>
+            
+            <guid>https://austintuley.com/posts/2025/04/coming-soon/</guid>
+            <description>&lt;p&gt;&lt;img src=&#34;https://austintuley.com/img/full_hooded_marshes.png&#34; alt=&#34;Magwitch&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;technical-write-ups-walkthroughs-useful-scripts-and-more&#34;&gt;Technical write-ups, walkthroughs, useful scripts and more.&lt;/h3&gt;</description>
+            <content type="html"><![CDATA[<p><img src="/img/full_hooded_marshes.png" alt="Magwitch"></p>
+<h3 id="technical-write-ups-walkthroughs-useful-scripts-and-more">Technical write-ups, walkthroughs, useful scripts and more.</h3>
+]]></content>
+        </item>
+        
     </channel>
 </rss>
