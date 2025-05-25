@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Austin Tuley</title>
-    <link>https://austintuley.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Austin Tuley</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Sun, 13 Apr 2025 18:58:32 -0600</lastBuildDate>
-    <atom:link href="https://austintuley.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coming Soon</title>
-      <link>https://austintuley.com/posts/2025/04/coming-soon/</link>
+      <link>http://localhost:1313/posts/2025/04/coming-soon/</link>
       <pubDate>Sun, 13 Apr 2025 18:58:32 -0600</pubDate>
-      <guid>https://austintuley.com/posts/2025/04/coming-soon/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://austintuley.com/img/misty_rainy_evening_remix.png&#34; alt=&#34;Magwitch&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;technical-write-ups-walkthroughs-scripts-and-more&#34;&gt;Technical write-ups, walkthroughs, scripts and more.&lt;/h3&gt;</description>
+      <guid>http://localhost:1313/posts/2025/04/coming-soon/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/misty_rainy_evening_remix.png&#34; alt=&#34;Magwitch&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;technical-write-ups-walkthroughs-scripts-and-more&#34;&gt;Technical write-ups, walkthroughs, scripts and more.&lt;/h3&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://austintuley.com/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://austintuley.com/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;Austin Tuley has been Certified in Cybersecurity (CC) by ISC2 since 2023 and passed the Systems Security Certified Practitioner (SSCP) exam in April 2025. He is an information technology professional currently working as a systems administrator in aerospace and defense manufacturing, where he brings together his skills in systems and network administration, vulnerability management, and security awareness.&lt;/p&gt;&#xA;&lt;p&gt;Austin is currently pursuing the Practical Network Penetration Tester (PNPT) certification from TCM Security to deepen his offensive security expertise. Driven by curiosity and a passion for cybersecurity, he is committed to continual learning and staying ahead in an ever-evolving landscape.&lt;/p&gt;</description>
     </item>
   </channel>
