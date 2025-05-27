@@ -8,7 +8,7 @@ tags:
   - blog
   - teaser
 ---
-![Magwitch](/img/misty_rainy_evening_remix.png)
+![Magwitch](/img/magwitch_escapes_coming_soon.png)
 
 ### Technical write-ups, walkthroughs, scripts and more.
 
