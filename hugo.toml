@@ -215,11 +215,11 @@ disableHugoGeneratorInject = false
     # identifier = "homelab"
     # name       = "homelab"
     # url        = "homelab/"
-   [[menu.main]]
-     identifier = "posts"
-     name       = "posts"
-     url        = "posts/"
-  [[menu.main]]
-    identifier = "wip"
-    name       = "wip"
-    url        = "https://github.com/austintuley/"
+  # [[menu.main]]
+    # identifier = "posts"
+    # name       = "posts"
+    # url        = "posts/"
+  # [[menu.main]]
+    # identifier = "wip"
+    # name       = "wip"
+    # url        = "https://github.com/austintuley/"
