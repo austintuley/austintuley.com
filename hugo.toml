@@ -205,7 +205,7 @@ disableHugoGeneratorInject = false
 [menu]
   [[menu.main]]
     identifier = "about"
-    name       = "about"
+    name       = "About"
     url        = "about/"
   # [[menu.main]]
     # identifier = "linux"
