@@ -32,13 +32,13 @@ canonifyURLs = true
 enableGitInfo   = false
 enableEmoji     = true
 enableMissingTranslationPlaceholders = false
-disableRSS     = false
+disableRSS     = true
 disableSitemap = false
 disable404     = false
 disableHugoGeneratorInject = false
 
 [permalinks]
-  posts = "/posts/:year/:month/:title/"
+  # posts = "/posts/:year/:month/:title/"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -116,7 +116,7 @@ disableHugoGeneratorInject = false
   #
   [params.footer]
     trademark = 2025
-    rss = true
+    rss = false
     copyright = true
     author = true
 
