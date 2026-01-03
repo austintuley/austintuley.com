@@ -203,10 +203,10 @@ disableHugoGeneratorInject = false
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 [menu]
-  # [[menu.main]]
-    # identifier = "about"
-    # name       = "about"
-    # url        = "about/"
+  [[menu.main]]
+    identifier = "about"
+    name       = "about"
+    url        = "about/"
   # [[menu.main]]
     # identifier = "linux"
     # name       = "linux"
@@ -219,7 +219,7 @@ disableHugoGeneratorInject = false
     # identifier = "posts"
     # name       = "posts"
     # url        = "posts/"
-  # [[menu.main]]
-    # identifier = "wip"
-    # name       = "wip"
-    # url        = "https://github.com/austintuley/"
+  [[menu.main]]
+    identifier = "GitHub"
+    name       = "GitHub"
+    url        = "https://github.com/austintuley/"
