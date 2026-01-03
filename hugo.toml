@@ -53,11 +53,7 @@ disableHugoGeneratorInject = false
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
-  homeSubtitle = """Systems Administration | Penetration Testing | Vulnerability Management
-
-  I’m Austin Tuley, a systems administrator working in aerospace and defense manufacturing, with a focus on systems administration, network operations, and vulnerability management.
-
-  I focus on understanding systems end-to-end — how they’re built, how they fail, and how thoughtful design and discipline improve resilience over time."""
+  homeSubtitle = "Systems Administration | Penetration Testing | Vulnerability Management"
 
 [params.author]
   name = "Austin Tuley"
